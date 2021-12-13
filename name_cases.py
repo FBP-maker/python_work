@@ -1,2 +1,5 @@
+name = "GNU/Linux"
 
-Fazer exercícios de python aqui.
+mensagem = "Hello, " + name.title() + "!"
+
+print(mensagem)
