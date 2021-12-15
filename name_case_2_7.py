@@ -1,3 +1,4 @@
+#Removento espaçoes em branco com as váriações do comando strip.
 nome = " Fulano"
 nome2 = "Ciclano "
 nome3 = " Beltrano "

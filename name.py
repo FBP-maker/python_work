@@ -1,3 +1,4 @@
+#Concatenando váriaveis, usando metodos na impressão das mesmas.
 first_name = "ada"
 last_name = "lovelace"
 full_name = first_name + " " +last_name
@@ -6,7 +7,7 @@ print(message.title())
 print(full_name.upper())
 print(full_name.lower())
 
-
+#Utilizando tabulações e quebra de linhas.
 print("\tPython")
 
 print("\t\tPython")
